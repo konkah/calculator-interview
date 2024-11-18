@@ -7,7 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CI_1_SwitchCase_TryParse", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CI_2_IfElse_TryParse", "CI_2_IfElse_TryParse\CI_2_IfElse_TryParse.csproj", "{587CA292-4F7A-4B52-90A7-8884D724B3DF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CI_1_SwitchCase_Parse", "CI_1_SwitchCase_Parse\CI_1_SwitchCase_Parse.csproj", "{CC135DC3-5413-4846-BD9A-12B28E112604}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CI_1_SwitchCase_Parse", "CI_1_SwitchCase_Parse\CI_1_SwitchCase_Parse.csproj", "{CC135DC3-5413-4846-BD9A-12B28E112604}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CI_2_IfElse_Parse", "CI_2_IfElse_Parse\CI_2_IfElse_Parse.csproj", "{6DDC9422-A5F3-427E-BFF5-A13DCA48AF4D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{CC135DC3-5413-4846-BD9A-12B28E112604}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CC135DC3-5413-4846-BD9A-12B28E112604}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CC135DC3-5413-4846-BD9A-12B28E112604}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DDC9422-A5F3-427E-BFF5-A13DCA48AF4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DDC9422-A5F3-427E-BFF5-A13DCA48AF4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DDC9422-A5F3-427E-BFF5-A13DCA48AF4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DDC9422-A5F3-427E-BFF5-A13DCA48AF4D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
