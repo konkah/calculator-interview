@@ -4,7 +4,8 @@
     {
         static void Main(string[] args)
         {
-            while (true)
+            bool system_loop = true;
+            while (system_loop)
             {
                 Console.ForegroundColor = ConsoleColor.Yellow;
                 Console.WriteLine("Calculator:\n");
